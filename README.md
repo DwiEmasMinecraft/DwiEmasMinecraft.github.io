@@ -33,6 +33,3 @@ Remember To Include Your:
 - School Email
 - Minecraft Username
 If You're Joining Our Team!
-
-#Build Settings
-theme: cayman
