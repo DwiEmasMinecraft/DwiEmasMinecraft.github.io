@@ -1,5 +1,3 @@
-theme: cayman
-
 The Official Repository For Dwi Emas Minecraft Client
 
 ## What is and why DEMC-Client?
@@ -35,3 +33,6 @@ Remember To Include Your:
 - School Email
 - Minecraft Username
 If You're Joining Our Team!
+
+#Build Settings
+theme: cayman
