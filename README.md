@@ -14,6 +14,8 @@ DEMC-Client Is Dwi Emas's Minecraft Client That Offers Amazing Performance And C
 - FPS Display
 - KeyStrokes Mod
 - ToggleSprint
+- ArmorHUD
+- CPS Display
 - TargetHUD
 More To Come!
 
