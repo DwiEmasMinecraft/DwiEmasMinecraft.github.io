@@ -1,4 +1,3 @@
-# DEMC-Client
 The Official Repository For Dwi Emas Minecraft Client
 
 ## What is and why DEMC-Client?
