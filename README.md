@@ -41,6 +41,6 @@ Remember To Include Your:
 If You're Joining Our Team!
 
 
-##Upcoming Features:
+## Upcoming Features:
 - ReplayMod
 - In Game Music Player
