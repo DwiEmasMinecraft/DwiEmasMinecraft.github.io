@@ -37,3 +37,8 @@ Remember To Include Your:
 - School Email
 - Minecraft Username
 If You're Joining Our Team!
+
+
+##Upcoming Features:
+- ReplayMod
+- 
