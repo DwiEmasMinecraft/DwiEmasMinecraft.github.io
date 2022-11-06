@@ -21,12 +21,12 @@ DEMC-Client Is Dwi Emas's Minecraft Client That Offers Amazing Performance And C
 - Server Display
 - Memory (RAM) Display
 - TargetHUD
+- Old (1.7) Animations
 More To Come!
 
 ### Special Features
 - Improved Hit Reg (Only Enabled On Dwi Emas Minecraft Server As It Can Get You Banned On Some Servers)
-- FPS Optimizer (Provided By [Azurite](https://tweakcentral.net))
-- Ping Optimizer (Provided By[ 1.1.1.1 By Cloudflare](https://1.1.1.1))
+- [Smooth Mouse Fix](https://www.curseforge.com/minecraft/mc-mods/projectl) | By OrangeMarshall
 
 ## Want To Help Us On This Project Or Suggest A Feature? 
 ### You Can Join Our Team Or Suggesting A Feature By Sending An Email To [Us](mailto:dwiemasminecraft@gmail.com)! 
