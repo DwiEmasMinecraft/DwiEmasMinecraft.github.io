@@ -28,7 +28,7 @@ More To Come!
 
 ### Special Features
 - Improved Hit Reg (Only Enabled On Dwi Emas Minecraft Server As It Can Get You Banned On Some Servers)
-- [Smooth Mouse Fix](https://www.curseforge.com/minecraft/mc-mods/projectl) | By OrangeMarshall
+- [Smooth Mouse Fix](https://www.curseforge.com/minecraft/mc-mods/projectl) By OrangeMarshall
 
 ## Want To Help Us On This Project Or Suggest A Feature? 
 ### You Can Join Our Team Or Suggesting A Feature By Sending An Email To [Us](mailto:dwiemasminecraft@gmail.com)! 
