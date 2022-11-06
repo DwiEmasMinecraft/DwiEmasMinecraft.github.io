@@ -38,6 +38,7 @@ Remember To Include Your:
 - Class
 - School Email
 - Minecraft Username
+
 If You're Joining Our Team!
 
 
